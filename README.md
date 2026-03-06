@@ -1,6 +1,3 @@
-Below is a **clean, professional, GitHub-ready README** you can paste directly into your repository. I structured it like a **real ML / computer vision project README** so it looks strong for research, hackathons, and recruiters.
-
----
 
 # SmartBin-Vision
 
